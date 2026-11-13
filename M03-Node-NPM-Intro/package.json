@@ -1,0 +1,17 @@
+{
+  "name": "module-3-node-npm-intro",
+  "version": "1.0.0",
+  "description": "An introductory Node.js web server and npm dependency demo.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "cowsay": "cowsay"
+  },
+  "keywords": [],
+  "author": "",
+  "type": "commonjs",
+  "private": true,
+  "dependencies": {
+    "cowsay": "^1.6.0"
+  }
+}
